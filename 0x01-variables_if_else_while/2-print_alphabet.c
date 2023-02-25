@@ -4,9 +4,10 @@
  * main - prints alpha in lower case
  * REturn: Always 0
  */
+
 int main(void)
 {
-	char lc:
+	char lc;
 
 	for (lc = 'a'; lc <= 'z'; lc++)
 	{
